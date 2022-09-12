@@ -1,0 +1,65 @@
+body {
+  background-color:bisque;
+}
+
+
+.grid-container{
+    display: grid;
+     /*grid-template-columns: auto auto;*/
+     grid: 300px/ auto auto;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+/*  margin-left: 10px;
+  margin-top: 250px;*/
+  text-align: left;
+  background-color: white;
+  border-radius: 20px; 
+  
+}
+.party
+{
+  
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 800px;
+  /*margin-left: 1000px;*/
+  text-align: left;
+  background-color: white;
+  /*border-radius: 20px;*/
+  
+}
+.photo{
+    width: 100px;
+    border-radius:50px; 
+    margin-left: 150px;
+}
+.attribute
+{
+    font-weight: bold;
+    margin-left: 10px; 
+}
+.value {
+  color: grey;
+  font-size: 18px;
+}
+
+button
+{
+  padding: 10px;
+  border-radius: 10px;
+  width: 15%;
+  background-color: black;
+  color: white;
+}
+
+
+td 
+{
+  text-align: center;
+
+}
+
+
+
