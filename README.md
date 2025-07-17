@@ -1,5 +1,4 @@
 # Online-Voting-System-using-pure-Java
-This project is created by Nihalkumar Galani.
 If you want to run this on your local machine you will need .
 1. Mysql database server.
 2. Java JDK.
